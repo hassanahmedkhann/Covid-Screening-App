@@ -1,0 +1,56 @@
+.container {
+  max-width: 360px;
+}
+span {
+  font-size: 12px;
+}
+.main {
+  height: max-content;
+  background-color: #eff0f1;
+}
+.main2 {
+  height: max-content;
+}
+.img {
+  max-width: 40px;
+}
+
+.col {
+  width: 100%;
+}
+.col2 {
+  max-width: 120px;
+  margin: 0;
+  padding: 0;
+  background-image: url("./covid19screen.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 35vh;
+}
+
+.c2 {
+  height: 80px;
+  width: 100%;
+}
+.img4 {
+  background-image: url("./icon-arrow.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img1 {
+  background-image: url("./symptoms.png");
+  background-size: cover;
+}
+.img2 {
+  background-image: url("./prevent.png");
+  background-size: cover;
+}
+.img3 {
+  background-image: url("./virus.png");
+  background-size: cover;
+}
+.headings {
+  font-size: 15px;
+  font-weight: bold;
+}

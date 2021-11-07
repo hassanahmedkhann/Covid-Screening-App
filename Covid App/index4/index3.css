@@ -1,0 +1,30 @@
+.c {
+  max-width: 406px;
+}
+.c1 {
+  height: 50px;
+  background-color: #eff0f1;
+}
+.img {
+  margin-top: 13px;
+  height: 50px;
+}
+.col {
+  height: 30px;
+  width: 30px;
+}
+.c2 {
+  padding-top: 10px;
+}
+.img2 {
+  background-image: url("./icon-arrow.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 20px;
+}
+.last {
+  margin-left: 10px;
+}
+li {
+  margin: 5px;
+}

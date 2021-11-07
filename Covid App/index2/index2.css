@@ -1,0 +1,52 @@
+.container {
+  width: 100%;
+  max-width: 400px;
+}
+.c {
+  max-width: 406px;
+}
+.c1 {
+  height: 50px;
+  background-color: #eff0f1;
+}
+.img {
+  margin-top: 13px;
+  height: 50px;
+}
+.c2 {
+  padding-top: 10px;
+  text-align: center;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.c3 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.c4 {
+  padding-top: 15px;
+  height: 100px;
+}
+.c {
+  height: 406px;
+}
+button {
+  width: 200px;
+}
+.imgc {
+  padding-top: 30px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.btn3 {
+  visibility: hidden;
+}
+.link1 {
+  visibility: hidden;
+}
+.link2 {
+  visibility: hidden;
+}
